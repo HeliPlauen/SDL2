@@ -1,0 +1,21 @@
+﻿  main.cpp
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_GetError в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_RWFromFile в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_FreeSurface в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_LoadBMP_RW в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_CreateWindow в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_DestroyWindow в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_CreateRenderer в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_CreateTextureFromSurface в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_RenderClear в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_RenderCopy в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_RenderPresent в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_DestroyTexture в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_DestroyRenderer в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Delay в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Init в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Quit в функции _SDL_main.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\SDL2\lib\x64\SDL2.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\SDL2\lib\x64\SDL2main.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\YPROGRAMMING\SDLLessons2\ConsoleApplication2\ConsoleApplication1\Debug\ConsoleApplication2.exe : fatal error LNK1120: неразрешенных внешних элементов: 17

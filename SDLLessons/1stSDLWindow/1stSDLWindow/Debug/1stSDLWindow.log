@@ -1,0 +1,11 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_CreateWindow в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_CreateRenderer в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_SetRenderDrawColor в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_RenderClear в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_RenderPresent в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Delay в функции _SDL_main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Init в функции _SDL_main.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\YPROGRAMMING\SDL2\lib\x64\SDL2.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\YPROGRAMMING\SDL2\lib\x64\SDL2main.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\YPROGRAMMING\1stSDLWindow\Debug\1stSDLWindow.exe : fatal error LNK1120: неразрешенных внешних элементов: 8
